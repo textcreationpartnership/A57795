@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The royal progress; or, A diary of the King's journey from His Majesty's setting out from Kensington, till His return. By a person of quality.</title>
+            <author>Person of quality.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57795</idno>
+            <idno type="STC">Wing R2143A</idno>
+            <idno type="STC">ESTC R218476</idno>
+            <idno type="EEBO-CITATION">99830064</idno>
+            <idno type="PROQUEST">99830064</idno>
+            <idno type="VID">34513</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57795)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34513)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2017:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The royal progress; or, A diary of the King's journey from His Majesty's setting out from Kensington, till His return. By a person of quality.</title>
+                  <author>Person of quality.</author>
+               </titleStmt>
+               <extent>10[i.e. 18], [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and sold by J. Whitlock, near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption and running title on pg. 3: The royal progress, &amp;c.</note>
+                  <note>With final advert. leaf.</note>
+                  <note>Copy includes blank leaf inserted between pgs. 14 and 15.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Voyages and travels --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34513:1" rendition="simple:additions"/>
+            <p>THE Royal Progreſs; OR, A DIARY OF THE King's Journey, From His MAJESTY's ſetting out from <hi>Kenſington,</hi> till His return.</p>
+            <p>
+               <hi>By a Perſon of Quality.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed, and ſold by <hi>J. Whitlock,</hi> near <hi>Stationers-Hall.</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:34513:2"/>
+            <pb n="3" facs="tcp:34513:2"/>
+            <head>THE Royal Progreſs, &amp;c.</head>
+            <p>THE Royal Progreſs being re<g ref="char:EOLhyphen"/>ſolv'd on, and Preparations made accordingly, and the Gaurds ſent away before to lie on the Road, the King left <hi>Kenſington</hi> on <hi>Thurſday</hi> the Seventeenth of <hi>October,</hi> 1695. and arriv'd at <hi>Newmarket</hi> the ſame Eve<g ref="char:EOLhyphen"/>ning; where the Eighteenth at Night happen'd a <hi>Fire,</hi> which began in a Sta<g ref="char:EOLhyphen"/>ble, but was ſoon extinguiſh'd, and the Damage it did was very inconſiderable.
+<pb n="4" facs="tcp:34513:3"/>Several Gentlemen of theſe Parts came to wait on his Majeſty, and to welcome him Home and to this Place, and then took occaſion to Congratulate his Maje<g ref="char:EOLhyphen"/>ſty on his taking the City and ſtrong Ca<g ref="char:EOLhyphen"/>ſtle of <hi>Namur:</hi> The next Day was ſpent in Hunting, with which his Majeſty was extreamly diverted. On <hi>Sunday,</hi> being the Twentieth, the principal Members of the Univerſity of <hi>Cambridge</hi> attended his Ma<g ref="char:EOLhyphen"/>jeſty here, <hi>viz.</hi> at <hi>Newmarket,</hi> and the Vice-Chancellor made a ſhort Congratulatory Speech upon his Majeſty's happy Succeſs Abroad, and his ſafe Return: And his Ma<g ref="char:EOLhyphen"/>jeſty, in anſwer to it, was graciouſly pleas'd to give them great Aſſurances of his Royal Favour and Protection; after which they all had the honour to kiſs his Majeſty's Hand.</p>
+            <p>The next Moning, being the Twen<g ref="char:EOLhyphen"/>ty firſt, the King parted from hence, and arrived the ſame Evening at <hi>Althrop,</hi>
+               <pb n="5" facs="tcp:34513:3"/>in <hi>Northamptonſhire,</hi> being attended by di<g ref="char:EOLhyphen"/>vers of the Nobility, and the principal Per<g ref="char:EOLhyphen"/>ſons of the Country. This is a noble Seat belonging to the Earl of <hi>Sunderland,</hi> an ancient Family, the <hi>Spencers</hi> having long poſſeſt it; here his Majeſty ſtaid a whole Week: The concourſe of Nobility, and Gen<g ref="char:EOLhyphen"/>try, and chief Inhabitants of <hi>Northampton</hi> (which is near this Place) is very great. The King took the Diverſion of the Rural Sports two or three of the firſt Days, and on <hi>Thurſday</hi> the 24th. his Majeſty din'd with the Earl of <hi>Northampton</hi> at <hi>Caſtle-Aſhby,</hi> a very fine Houſe in the ſame County; and the next, being the 25th. the King did the Earl of <hi>Montague</hi> the Honour to dine with him at <hi>Boughton,</hi> a ſtately and magnificent Pile of Building: Here his Majeſty was ſplendidly Entertain'd, and was attended with a great Number of the Nobility and Gentry of this County, whom his Majeſty receiv'd very kindly, and told them, <hi>Their County was, in his Opinion, the fineſt in</hi> Eng<g ref="char:EOLhyphen"/>land,
+<pb n="6" facs="tcp:34513:4"/>
+               <hi>and, perhaps, in the whole World; that nothing made a Gentleman look like a Gen<g ref="char:EOLhyphen"/>tleman, but living like one.</hi> His Majeſty thank'd them for their good Company; and, indeed, he had a great deal, for there was hardly any Body of Note that did not come upon this Occaſion; and as my Lord <hi>Montague</hi> was ſhewing his Majeſty his Houſe, Painting, Carving, <hi>&amp;c.</hi> the King told my Lord, <hi>'Twas not good for One to ſet One's Heart on any of them, for neither He nor his Lordſhip ſhould be there Forty Years hence to ſee them.</hi>
+            </p>
+            <p>The 28th. his Majeſty left <hi>Althorp,</hi> and came in the Evening to <hi>Stamford;</hi> but went (tho' out of his way) to ſee <hi>Burghly</hi> Houſe, the Seat and conſtant Reſidence of the Earl of <hi>Exeter,</hi> who was come away to <hi>London;</hi> which his Majeſty being inform'd of, was pleas'd to ask, if he had carried his Houſe with him? anſwer was made no; <hi>Then,</hi> ſays the King, <hi>I'll go and ſee it;</hi> which
+<pb n="7" facs="tcp:34513:4"/>his Majeſty did twice, that night and the next morning, being extreamly ſatisfied with it: 'Tis a noble Pile of Stone Build<g ref="char:EOLhyphen"/>ing, built indeed about a hundred Years ſince by <hi>William</hi> Lord <hi>Burghley,</hi> but mighti<g ref="char:EOLhyphen"/>ly adorn'd and beautified by the preſent Earl of <hi>Exeter,</hi> who lives very Great and Nobly when there, like himſelf, and like an <hi>Engliſh</hi> Noble-Man; for loftineſs of Rooms, great variety of Pictures, and fine Painting and Carving, done by the grea<g ref="char:EOLhyphen"/>teſt Maſters of <hi>Italy,</hi> brought thence by his Lordſhip, maintain'd and liberally re<g ref="char:EOLhyphen"/>warded, for Terraſſes, Conduits, Fiſh-Ponds, Fountains, <hi>&amp;c.</hi> It may vie with, nay, is thought the beſt in <hi>England.</hi> The Painting and Carving are ſo curious, that ſome very great Travellers, and Men of exquiſite Judgment, have affirm'd they have met with nothing either in <hi>Italy</hi> or in <hi>France</hi> that exceeds them. The Park is improv'd, by planting a multitude of Walks of Aſh, Elm, Cheſnut, and ſeveral
+<pb n="8" facs="tcp:34513:5"/>other ſorts of Trees. Through this Park paſſeth the old <hi>Roman</hi> Way, mention'd by many Authors, and ſo on to <hi>Walcote,</hi> above <hi>Berneck.</hi> At <hi>Wothorpe,</hi> a little diſtance from this the Earl of <hi>Exeter</hi> has another hand<g ref="char:EOLhyphen"/>ſome Seat, with a little Park wall'd about: It was built by <hi>Thomas Cecil,</hi> Earl of <hi>Exe<g ref="char:EOLhyphen"/>ter,</hi> and tho' not very ſmall (for it was large enough to hold the late Duke of <hi>Buckingham</hi> and his Family for ſome Years) yet ſo mean did it ſeem, in compariſon with the former, that its Pounder plea<g ref="char:EOLhyphen"/>ſantly ſaid, He <hi>built it only to retire to out of the Duſt, while his great Houſe of</hi> Burgh<g ref="char:EOLhyphen"/>ley <hi>was a ſweeping.</hi>
+            </p>
+            <p>At <hi>Stamford</hi> the Mayor and Aldermen, attended with their two Burgeſſes, waited on the King, and had the honour to kiſs his Majeſty's Hand, and of welcoming him into thoſe Parts, with all poſſible Demonſtrations of Joy, by ringing of Bells, making of Bonfires, and ſetting up
+<pb n="9" facs="tcp:34513:5" rendition="simple:additions"/>of Illuminations throughout the whole Town.</p>
+            <p>The 29th. the King din'd at Sir <hi>John Brownlow</hi>'s at <hi>Bilton</hi> near <hi>Grantham,</hi> and came that Night to <hi>Lincoln,</hi> being at<g ref="char:EOLhyphen"/>tended by a mighty concourſe of Peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p>The 30th. in the Morning his <hi>Majeſty</hi> left this Town, and went to <hi>Welbeck,</hi> ha<g ref="char:EOLhyphen"/>ving been met by the Duke of <hi>Newcaſtle</hi> Seven Miles off, at <hi>Dunham-Ferry,</hi> the En<g ref="char:EOLhyphen"/>trance into this County. The 31ſt. being the laſt Day of <hi>October,</hi> the King dined with his Grace the Duke of <hi>Newcaſtle</hi> at <hi>Welbeck,</hi> after having receiv'd the Diver<g ref="char:EOLhyphen"/>ſion of Hunting in the Forreſt of <hi>Shire<g ref="char:EOLhyphen"/>wood,</hi> where are an infinite Number of Deer, and Branchy-headed Stags; his <hi>Ma<g ref="char:EOLhyphen"/>jeſty</hi> gave order for the filling up the Saw-Pits there, which are dangerous to Huntſmen. <hi>Welbeck-Abbey</hi> lies on the
+<pb n="10" facs="tcp:34513:6" rendition="simple:additions"/>North-Weſt ſide of this County of <hi>Not<g ref="char:EOLhyphen"/>tingham,</hi> about a Mile and a half from <hi>Workenſop,</hi> a Town famous for the abun<g ref="char:EOLhyphen"/>dance of Liquorice planted and cultiva<g ref="char:EOLhyphen"/>ted there. <hi>Welbeck</hi> Abbey is a very noble Building, ſeated in the loweſt part of a fine Park, ſurrounded with Trees of ex<g ref="char:EOLhyphen"/>cellent Timber, and was the Seat of <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> and <hi>Henry,</hi> late (and alſo is of the preſent) Duke of <hi>Newcaſtle.</hi>
+            </p>
+            <p>
+               <hi>November</hi> 1ſt. his <hi>Majeſty</hi> din'd at the Earl of <hi>Kingſton</hi>'s, and was nobly enter<g ref="char:EOLhyphen"/>tain'd.</p>
+            <p>
+               <hi>November</hi> 2d. The Lord-Mayor and Al<g ref="char:EOLhyphen"/>dermen of <hi>York,</hi> in their Formalities, wai<g ref="char:EOLhyphen"/>ted on the King that Morning at <hi>Welbeck</hi> Abbey, being introduced by the Duke of <hi>Newcaſtle;</hi> the Recorder made a Speech to his <hi>Majeſty,</hi> who was pleas'd to confer the Honour of Knighthood upon the Lord-Mayor, <hi>Gilbert Metcalf</hi> Eſquire. In
+<pb n="11" facs="tcp:34513:6"/>the Evening the Lord-Archbiſhop of <hi>York,</hi> with his Clergy, attended his <hi>Majeſty,</hi> and congratulated his happy Succeſs and ſafe Return, expreſs'd their Gratitude for his <hi>Majeſty's Care of the Church,</hi> who had ſhow'd himſelf truly the Defender of the Faith; gave his <hi>Majeſty</hi> great Aſſurance of their Zeal, and Loyalty to his Intereſts, and Government; pray'd for all Bleſſings to attend his Royal Perſon, and recom<g ref="char:EOLhyphen"/>mended Themſelves to his Royal Prote<g ref="char:EOLhyphen"/>ction; which his <hi>Majeſty</hi> was pleas'd to aſſure them of, as alſo of his good Grace, and Favour.</p>
+            <p>The Corporations of <hi>Newark</hi> and <hi>Eaſt-Retford</hi> attended the King, and kiſſed his <hi>Majeſty</hi>'s Hand: The Recorder of each Place congratulated his <hi>Majeſty</hi>'s glorious Succeſs at <hi>Namur,</hi> and ſafe Return to <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and gave the King a moſt hearty Wel<g ref="char:EOLhyphen"/>come in theſe Parts; all which his <hi>Majeſty</hi> took very kindly from them.</p>
+            <pb n="12" facs="tcp:34513:7"/>
+            <p>
+               <hi>November</hi> 3d. The King left <hi>Welbeck</hi> in the Afternoon, and came in the Even<g ref="char:EOLhyphen"/>ing to the Earl of <hi>Stamford</hi>'s Houſe at <hi>Brodgate,</hi> where his <hi>Majeſty</hi> lay that Night.</p>
+            <p>
+               <hi>November</hi> 4th. About Nine this Night the King came to <hi>Warwick</hi> Caſtle to my Lord <hi>Brooks,</hi> being receiv'd with great Ac<g ref="char:EOLhyphen"/>clamations, ringing of Bells, Illuminations, Fire-works, and other Expreſſions of Joy and Reſpect.</p>
+            <p>The Mayor and Aldermen of <hi>Warwick</hi> met his <hi>Majeſty</hi> at the Towns-end, and at<g ref="char:EOLhyphen"/>tended his Coach to the <hi>Caſtle,</hi> where the King was met Splendidly, and manificent<g ref="char:EOLhyphen"/>ly Entertain'd by my Noble Lord <hi>Brooks;</hi> who alſo provided a Bowl of Punch for the Towns-People, of One hundred and twenty Gallons, made in a Veſſel call'd <hi>Guy</hi> Earl of <hi>Warwick</hi>'s <hi>Pot.</hi> Great were
+<pb n="13" facs="tcp:34513:7"/>the Acclamations of the People here; <hi>God<g ref="char:EOLhyphen"/>ſave King</hi> William; and, <hi>long live King</hi> Wil<g ref="char:EOLhyphen"/>liam, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>November</hi> 5th. The King left <hi>Warwick</hi> in the morning, being attended by my Lord <hi>Brook,</hi> ſeveral Gentlemen of the County, and the Magiſtrates, out of the Town, and ſome part of the way. The King din'd with my Lord Duke of <hi>Shrewsbury</hi> at <hi>Ey<g ref="char:EOLhyphen"/>fort,</hi> and in the Evening came to <hi>Burford,</hi> where his <hi>Majeſty</hi> ſtaid till the Eighth; when the King left that Place, and ar<g ref="char:EOLhyphen"/>riv'd in the Evening at <hi>Woodſtock,</hi> having in his way ſeen <hi>Cornbury-Houſe.</hi>
+            </p>
+            <p>And on the 9th. in the Morning his <hi>Majeſty</hi> came to <hi>Oxford,</hi> being met at ſome diſtance from thence by his Grace the Duke of <hi>Ormond,</hi> Chancellor of the Uni<g ref="char:EOLhyphen"/>verſity, and the Vice-Chancellor and the Doctors in their Habits: As alſo by the Magiſtrates of the City in their Forma<g ref="char:EOLhyphen"/>lities;
+<pb n="14" facs="tcp:34513:8"/>and the Complements of both be<g ref="char:EOLhyphen"/>ing made to his <hi>Majeſty,</hi> by the Vice-Chancellor for the one, and by the Re<g ref="char:EOLhyphen"/>corder for the other, they proceeded on Horſe-back before his <hi>Majeſty</hi>'s Coach to the <hi>Theatre,</hi> where a ſplendid Entertain<g ref="char:EOLhyphen"/>ment was provided, with great variety of excellent Muſick; The Conduit of the City running all the while with Wine. The Thanks of the Univerſity were re<g ref="char:EOLhyphen"/>turn'd to his <hi>Majeſty,</hi> for this Royal Fa<g ref="char:EOLhyphen"/>vour and Honour, in a very Elegant <hi>Latin</hi> Oration; And the Duke of <hi>Ormond,</hi> Chancellor of this Univerſity, preſented the King, on his Knees, a large <hi>Bible</hi> in <hi>Engliſh,</hi> a large <hi>Common-Prayer Book,</hi> and the <hi>Cuts</hi> of the Univerſity, all rich<g ref="char:EOLhyphen"/>ly Bound, and Printed in <hi>Folio,</hi> at the <hi>Theatre;</hi> with a Pair of Gold-Fringe Gloves.</p>
+            <p>After Dinner the Vice-Chancellor, No<g ref="char:EOLhyphen"/>ble Men, and Gentlemen preſent, had the
+<pb facs="tcp:34513:8" rendition="simple:additions"/>
+               <pb facs="tcp:34513:9"/>
+               <pb n="15" facs="tcp:34513:9"/>Honour to kiſs his <hi>Majeſty</hi>'s Hand, and attended the King to his Coach, who was pleas'd to tell them, That <hi>this was a Viſit of Kindneſs, not Curioſity;</hi> And there<g ref="char:EOLhyphen"/>fore He did not go to ſee the Colleges, having ſeen the whole Univerſity be<g ref="char:EOLhyphen"/>fore.</p>
+            <p>And ſo, after a ſhort ſtay, his Maje<g ref="char:EOLhyphen"/>ſty went on, and arriv'd at <hi>Windſor</hi> about Seven in the Evening, on the Ninth In<g ref="char:EOLhyphen"/>ſtant.</p>
+            <p>The King din'd with my Lord <hi>Godol<g ref="char:EOLhyphen"/>phin</hi> at <hi>Cranborn-Houſe</hi> on <hi>Sunday</hi> the Tenth Inſtant, and held a Council at <hi>Windſor</hi> in the Evening.</p>
+            <p>His Majeſty honour'd Sir <hi>Stephen Fox</hi> with his Royal Company at Dinner on the Eleventh, being <hi>Munday,</hi> at <hi>Chiſwick,</hi> and return'd in the Evening to his Royal Reſidence at <hi>Kenſington.</hi>
+            </p>
+            <pb n="16" facs="tcp:34513:10"/>
+            <p>Having compleated his Royal Progreſs in Six and twenty Days, to his entire Satisfaction, having been bleſs'd with extraordinary Weather, with a Continuation beyond what was to be expected from the Seaſon; and was re<g ref="char:EOLhyphen"/>ceiv'd every where, either as his Majeſty paſs'd, or ſtaid, with hearty <hi>Engliſh</hi> Demonſtrations of Reſpect, Zeal, Affection, and Fi<g ref="char:EOLhyphen"/>delity.</p>
+            <p>The Four Elements conſpir'd to make the King's Journey Plea<g ref="char:EOLhyphen"/>ſant and Proſperous; and never did his Majeſty ſee ſo much real <hi>Engliſh</hi> Greatneſs, viſible in the Magnificent Entertainments eve<g ref="char:EOLhyphen"/>ry
+<pb n="11" facs="tcp:34513:10"/>where provided for Him, far exceeding what our Neighbour-Nations ever did, when ever their Monarchs vouchſafed them the Honour of a Viſit; and, in<g ref="char:EOLhyphen"/>deed, thus much may be ſaid now, and without the the leaſt Tincture of Flattery, That this Progreſs will have happy and glorious Effects, by engaging the Hearts of all thoſe of His Majeſty's Subjects, who before had only heard what great Things the King had done for them, and all <hi>Europe,</hi> but now had the Honour and Happineſs to ſee that excellent Prince, that was deſtin'd by Heaven to make this Renow'd Kingdom of <hi>En<g ref="char:EOLhyphen"/>gland</hi>
+               <pb n="10" facs="tcp:34513:11"/>flouriſh, beyond what it ever did in ancient Times; and to retrieve her Reputation, and make her Fame as laſting as Time it ſelf; and, to crown all, to eſtabliſh Us in an Honourable and Durable Peace.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:34513:11"/>
+            <head>There is lately Publiſh'd,</head>
+            <p>
+               <hi>ANgliae Tutamen:</hi> Or, the Safety <hi>En<g ref="char:EOLhyphen"/>gand.</hi> Being an Account of the <hi>Banks, Lotteries. Mines, Diving, Draining, Lifting,</hi> and other <hi>Engines,</hi> and many per<g ref="char:EOLhyphen"/>nicious <hi>Projects</hi> now on foot; tending to the Deſtruction of <hi>Trade</hi> and <hi>Commerce,</hi> and the Impoveriſhing this <hi>Realm.</hi> With Reflections thereon.</p>
+            <p>
+               <hi>Solon Secundus:</hi> Or, ſome Defects in the <hi>Engliſh</hi> Laws; with their proper Reme<g ref="char:EOLhyphen"/>dies.</p>
+            <q>
+               <hi>Both ſold by</hi> J. Whitlocck, <hi>near</hi> Sationers-Hall.</q>
+         </div>
+      </back>
+   </text>
+</TEI>
